@@ -91,3 +91,16 @@
   padding: 10px;
 }
 </style>
+
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCzkteU2ai5n7xhlcDTYeb3KCP3zkQMgaw",
+    authDomain: "healthme-project.firebaseapp.com",
+    databaseURL: "https://healthme-project.firebaseio.com",
+    projectId: "healthme-project",
+    storageBucket: "healthme-project.appspot.com",
+    messagingSenderId: "152408128722"
+  };
+  firebase.initializeApp(config);
+</script>
