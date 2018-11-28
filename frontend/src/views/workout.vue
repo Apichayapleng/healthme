@@ -47,9 +47,40 @@
         </b-carousel-slide>
 
       </b-carousel>
-
     </div>
 
+    <div class="row">
+      <div class="col container">
+        <div class="card mb-2" title="Card Title" style="max-width: 20rem;">
+          <img src="../assets/logo.png" width="fit">
+          <p class="card-text">
+            Some quick example text to build on the card title and make up the bulk of the card's content.
+          </p>
+          <button href="#" variant="primary">Go somewhere</button>
+        </div>
+      </div>
+
+      <div class="col container">
+        <div class="card mb-2" title="Card Title" style="max-width: 20rem;">
+          <img src="../assets/logo.png" width="fit">
+          <p class="card-text">
+            Some quick example text to build on the card title and make up the bulk of the card's content.
+          </p>
+          <button href="#" variant="primary">Go somewhere</button>
+        </div>
+      </div>
+
+      <div class="col container">
+        <div class="card mb-2" title="Card Title" style="max-width: 20rem;">
+          <img src="../assets/logo.png" width="fit">
+          <p class="card-text">
+            Some quick example text to build on the card title and make up the bulk of the card's content.
+          </p>
+          <button href="#" variant="primary">Go somewhere</button>
+        </div>
+      </div>
+      
+    </div>
 
   </div>
 </template>
